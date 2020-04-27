@@ -17,5 +17,6 @@ MAILUSER	Your sender email
 MAILUSERNAME	Your name
 MAILWEBSITE	Your website
 ```
+- you can link the lambda function with API Gateway so you can receive post requests.
 
 
