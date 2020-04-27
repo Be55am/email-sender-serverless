@@ -43,7 +43,7 @@ exports.handler = async (event, context, callback) =>{
 
 
     var responseBody = {
-
+        "result":"message sent successfully"
     };
 
     var response = {
